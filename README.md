@@ -1,5 +1,5 @@
-# .Net Framework Mvc5 ile yazılmış SQL Server tabanlı dinamik bir Cv web sitesi.
-# DbFirst yaklaşımını ele alınarak önce SQL Server'da tablolarımızı oluşturduk.
+.Net Framework Mvc5 ile yazılmış SQL Server tabanlı dinamik bir Cv web sitesi.
+ DbFirst yaklaşımını ele alınarak önce SQL Server'da tablolarımızı oluşturduk.
 Oluşturduğumuz tabloları projemize Entity Data Model ile dahil ettik.
 Repository Design Pattern ile CRUD işlemlerini gerçekleştirdik.
 Admin panelimiz sayesinde site üzerindeki değişikliklerimizi arka planda yapabiliyoruz.
