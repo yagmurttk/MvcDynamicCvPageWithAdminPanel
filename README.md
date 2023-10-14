@@ -1,4 +1,14 @@
+.Net Framework Mvc5 ile yazılmış SQL Server tabanlı dinamik bir Cv web sitesi.
+DbFirst yaklaşımını ele alınarak önce SQL Server'da tablolarımızı oluşturduk.
+Oluşturduğumuz tabloları projemize Entity Data Model ile dahil ettik.
+Repository Design Pattern ile CRUD işlemlerini gerçekleştirdik.
+Admin panelimiz sayesinde site üzerindeki değişikliklerimizi arka planda yapabiliyoruz.
+Fluent Validation ile eklenmek veya güncellenmek istenen verileri kontrolden geçiriyoruz.
+İletişim sayfasından gönderilen mesajları admin panel üzerinden görüntüleyebiliyoruz.
 # Mvc_DynamicCv_PageWith_AdminPanel
+
+
+
 ![AdminLogin](https://github.com/yagmurttk/Mvc_DynamicCv_PageWith_AdminPanel/assets/126063227/bfaa455b-c432-46d8-bc76-6128051b6c6c)
 ![Admin Hakkımda](https://github.com/yagmurttk/Mvc_DynamicCv_PageWith_AdminPanel/assets/126063227/9faca01b-6053-4172-b3c2-1fe216ec017b)
 ![Adminİletişim](https://github.com/yagmurttk/Mvc_DynamicCv_PageWith_AdminPanel/assets/126063227/cb9c0824-421a-49c7-9d25-77c82c107d13)
